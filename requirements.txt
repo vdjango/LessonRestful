@@ -57,7 +57,7 @@ imgviz==0.10.5
 importlib-metadata==0.23
 itsdangerous==1.1.0
 itypes==1.1.0
-Jinja2==2.10
+Jinja2==2.11.3
 jsonfield==2.0.2
 kiwisolver==1.1.0
 kombu==3.0.37
