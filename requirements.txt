@@ -94,7 +94,7 @@ pycparser==2.19
 pycrypto==2.6.1
 pycryptodome==3.8.2
 pyDes==2.0.1
-Pygments==2.4.2
+Pygments==2.7.4
 PyJWT==1.7.1
 pymssql==2.1.4
 PyMySQL==0.9.3
