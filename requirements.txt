@@ -19,7 +19,7 @@ crypto==1.4.1
 cryptography==2.7
 cycler==0.10.0
 Cython==0.29.13
-dask==2.8.0
+dask==2021.10.0
 DateTime==4.3
 decorator==4.4.1
 defusedxml==0.6.0
