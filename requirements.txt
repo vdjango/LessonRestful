@@ -95,7 +95,7 @@ pycrypto==2.6.1
 pycryptodome==3.8.2
 pyDes==2.0.1
 Pygments==2.4.2
-PyJWT==1.7.1
+PyJWT==2.4.0
 pymssql==2.1.4
 PyMySQL==0.9.3
 pyodbc==4.0.27
